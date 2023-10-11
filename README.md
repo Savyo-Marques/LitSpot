@@ -1,7 +1,7 @@
 # LitSpot
 
 <div align="center">
-    <img src="" width=""/>
+    <img src="https://github.com/Savyo-Marques/LitSpot/assets/129305960/a122e173-7eee-45d4-96ae-fb669e37df37" width="450px"/>
 </div>
 
 ## Introdução
@@ -43,7 +43,7 @@ A lista de livros encontrados é exibida usando o componente `FlatList`. Cada it
 O título do livro, autor e URL são exibidos em textos simples, enquanto a classificação do livro é exibida usando o componente `StarRating`.
 
 <div align="center">
-    <img src="" width=""/>
+    <img src="https://github.com/Savyo-Marques/LitSpot/assets/129305960/63fdced7-71de-4e04-8cbf-2f14f5b462b3" width="450px"/>
 </div>
 
 ## Interface do Usuário
